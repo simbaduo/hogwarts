@@ -9,4 +9,24 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  text-align: center;
+  background-image: url('https://wallpaperplay.com/walls/full/5/6/9/64780.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
 }
+
+h1 {
+  padding-top: 8rem;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+
